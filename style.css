@@ -1,0 +1,31 @@
+body {
+    background: #001f21;
+}
+
+.title {
+    color: #ebe7b7;
+    font-size: 35px;
+}
+
+.subtitle {
+    color: #ebe7b7;
+    font-size: 18px;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post_title {
+    color: #029b99;
+    font-size: 22px;
+    font-style: italic;
+}
+
+.post_content {
+    color: #ecc039;
+    font-size: 16px;
+}
+
+.link {
+    color: #de4f15;
+    
+}
