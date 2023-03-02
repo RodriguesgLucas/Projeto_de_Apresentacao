@@ -1,31 +1,43 @@
 body {
-    background: #001f21;
+    background: #1d5b5c;
+    text-align: center;
 }
 
 .title {
-    color: #ebe7b7;
+    
+    color: #0b110d;
     font-size: 35px;
 }
 
 .subtitle {
-    color: #ebe7b7;
+    
+    color: white;
     font-size: 18px;
-    margin: 0;
-    margin-bottom: 15px;
 }
 
+.descripition {
+    border: 3px solid black;
+    border-radius: 10px;
+    margin:0 auto;
+    background: whitesmoke;
+}
 .post_title {
-    color: #029b99;
+    color: #000039;
     font-size: 22px;
     font-style: italic;
 }
 
 .post_content {
-    color: #ecc039;
+    color: black;
     font-size: 16px;
+    
 }
 
 .link {
-    color: #de4f15;
-    
+    color: white;    
+}
+
+.photo {
+    padding: 10px;
+    margin:0 auto;    
 }
